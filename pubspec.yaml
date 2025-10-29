@@ -1,0 +1,115 @@
+name: genwise
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logo/logo.jpg"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^4.0.0
+  firebase_auth: ^6.0.1
+  cloud_firestore: 6.0.0
+  lottie: ^3.3.1
+  http: ^1.2.1
+  cupertino_icons: ^1.0.8
+  image_picker: ^1.0.4
+  path_provider: ^2.1.5
+  pdf: ^3.10.4
+  printing: ^5.11.0
+  open_file: ^3.3.2
+  device_info_plus: ^11.5.0
+  file_picker: ^10.3.1
+  syncfusion_flutter_pdf: ^30.2.6
+  jose: ^0.3.2
+  cryptography: ^2.7.0
+  pem: ^2.0.1
+  basic_utils: ^5.7.0
+  pointycastle: ^4.0.0
+  permission_handler: ^12.0.1
+  flutter_launcher_icons: ^0.14.4
+  flutter_image_compress: ^2.4.0
+  archive: ^4.0.7
+  flutter_super_resolution: ^1.0.0
+  onnxruntime: ^1.4.1
+  share_plus: ^11.1.0
+  flutter_tts: ^3.8.5
+  speech_to_text: ^7.3.0
+  provider: ^6.1.1 # Add this
+  shared_preferences: ^2.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+
+# The following section is specific to Flutter packages.
+flutter:
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    # Resume templates
+    - assets/B.-Software-Engineer.docx
+    - assets/Assembler.docx
+    - assets/cashier.docx
+    - assets/Customer-Service-Representative (1).docx
+    - assets/Customer-Service-Representative.docx
+    - assets/customer.docx
+    - assets/picker.docx
+    - assets/resume_001.docx
+    - assets/resume_006-1.docx
+    - assets/resume_011.docx
+    - assets/resume_012.docx
+    # Template preview images
+    - assets/preview/Assembler.png
+    - assets/preview/B.-Software-Engineer.png
+    - assets/preview/cashier.png
+    - assets/preview/Customer-Service-Representative (1).png
+    - assets/preview/Customer-Service-Representative.png
+    - assets/preview/customer.png
+    - assets/preview/picker.png
+    - assets/preview/resume_001.png
+    - assets/preview/resume_006-1.png
+    - assets/preview/resume_011.png
+    - assets/preview/resume_012.png
+    - assets/fonts/
+    - assets/preview/
+    - assets/true-elevator-451713-h5-61c14c2cd65a.json
+    - assets/logo/logo.jpg
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

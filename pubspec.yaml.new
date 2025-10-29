@@ -1,0 +1,34 @@
+name: genwise
+description: "A new Flutter project."
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.12.0
+  firebase_auth: ^4.4.0
+  lottie: ^2.3.0
+  http: ^1.1.0
+  cupertino_icons: ^1.0.8
+  # Added for image picking
+  image_picker: ^1.0.4
+  # Added for file downloading
+  path_provider: ^2.1.1
+  # Added for PDF generation
+  pdf: ^3.10.4
+  printing: ^5.11.0
+  # Added for MS Word document generation
+  docx: ^4.1.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.1
+
+flutter:
+  uses-material-design: true
