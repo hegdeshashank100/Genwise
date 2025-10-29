@@ -9,6 +9,12 @@
 
 ---
 
+<p align="center">
+  <img src="https://github.com/hegdeshashank100/Genwise/blob/main/docs/WhatsApp%20Image%202025-10-17%20at%2017.29.29_48c20df0.jpg" alt="GenWise Home Page" width="600"/>
+</p>
+
+---
+
 ## 🧠 Project Pitch
 
 **Tagline:**  
@@ -37,13 +43,11 @@ It integrates **Google Gemini** for generative text, **Vertex AI Imagen 2** for 
 
 ---
 
-## 🖼️ Demo & Media
-- **Demo links:** _none (under development)_  
-- **Screenshots/GIFs:**  
-  - `assets/screenshots/home.png`  
-  - `assets/screenshots/tools.png`  
-  - `assets/screenshots/chat_pdf.png`  
-  - `assets/screenshots/code_explainer.png`
+## 🖼️ Screenshots
+
+| Home Page | Tool 1 | Tool 2 |
+|------------|--------|--------|
+| <img src="https://github.com/hegdeshashank100/Genwise/blob/main/docs/WhatsApp%20Image%202025-10-17%20at%2017.29.29_48c20df0.jpg" alt="Home Page" width="250"/> | <img src="https://github.com/hegdeshashank100/Genwise/blob/main/docs/WhatsApp%20Image%202025-10-17%20at%2017.29.28_9c735be1.jpg" alt="Tool Screenshot 1" width="250"/> | <img src="https://github.com/hegdeshashank100/Genwise/blob/main/docs/WhatsApp%20Image%202025-10-17%20at%2017.29.28_fc5f8a28.jpg" alt="Tool Screenshot 2" width="250"/> |
 
 ---
 
