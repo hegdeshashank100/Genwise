@@ -9,12 +9,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/hegdeshashank100/Genwise/blob/main/docs/WhatsApp%20Image%202025-10-17%20at%2017.29.29_48c20df0.jpg" alt="GenWise Home Page" width="600"/>
-</p>
-
----
-
 ## 🧠 Project Pitch
 
 **Tagline:**  
@@ -130,3 +124,4 @@ It integrates **Google Gemini** for generative text, **Vertex AI Imagen 2** for 
 ```bash
 flutter pub get
 flutter run
+
